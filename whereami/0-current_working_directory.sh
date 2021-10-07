@@ -1,2 +1,0 @@
-pwd
-test -x ./0-current_working_directory && echo OK || echo FAILURE
